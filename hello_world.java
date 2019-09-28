@@ -19,7 +19,7 @@ public class hello_world
       
       if (flag == flag1)
       {
-        System.out.print("Не правильный ввод!");
+        System.out.print("Incorrect write!");
         System.exit(0);
       }
       else
@@ -148,7 +148,7 @@ public class hello_world
               flag1++;
               break;
           default:
-              System.out.print("Не правильные данные!");
+              System.out.print("Incorrect!");
               System.exit(0);
               result = 0;
               break;
@@ -241,7 +241,7 @@ public class hello_world
       }
       else 
       {
-          System.out.print("Ноль");
+          System.out.print("Zero!");
       }
       
       return 0;
