@@ -10,7 +10,7 @@ public class hello_world
   
   public static void main(String[] args)
   {
-      System.out.print("lknlnlnlnl");
+      //System.out.print("Hello World!!!");
       String getTask = scanner.nextLine();
       String[] def = new String[3];
       def = getTask.split("\\s");
